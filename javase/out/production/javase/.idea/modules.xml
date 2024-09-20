@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Module4/Module4.iml" filepath="$PROJECT_DIR$/Module4/Module4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module5/Module5.iml" filepath="$PROJECT_DIR$/Module5/Module5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiAccount/MultiAccount.iml" filepath="$PROJECT_DIR$/MultiAccount/MultiAccount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javase.iml" filepath="$PROJECT_DIR$/javase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login/login.iml" filepath="$PROJECT_DIR$/login/login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module1/module1.iml" filepath="$PROJECT_DIR$/module1/module1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/module2.iml" filepath="$PROJECT_DIR$/module2/module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module6/module6.iml" filepath="$PROJECT_DIR$/module6/module6.iml" />
+    </modules>
+  </component>
+</project>
